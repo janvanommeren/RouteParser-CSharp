@@ -1,0 +1,17 @@
+/Users/janvanommeren/Projects/RouteParser-CSharp/RouteParser-CSharp-Test/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/janvanommeren/Projects/RouteParser-CSharp/RouteParser-CSharp-Test/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/janvanommeren/Projects/RouteParser-CSharp/RouteParser-CSharp-Test/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/janvanommeren/Projects/RouteParser-CSharp/RouteParser-CSharp-Test/bin/Debug/netcoreapp2.2/RouteParser-CSharp-Test.deps.json
+/Users/janvanommeren/Projects/RouteParser-CSharp/RouteParser-CSharp-Test/bin/Debug/netcoreapp2.2/RouteParser-CSharp-Test.runtimeconfig.json
+/Users/janvanommeren/Projects/RouteParser-CSharp/RouteParser-CSharp-Test/bin/Debug/netcoreapp2.2/RouteParser-CSharp-Test.runtimeconfig.dev.json
+/Users/janvanommeren/Projects/RouteParser-CSharp/RouteParser-CSharp-Test/bin/Debug/netcoreapp2.2/RouteParser-CSharp-Test.dll
+/Users/janvanommeren/Projects/RouteParser-CSharp/RouteParser-CSharp-Test/bin/Debug/netcoreapp2.2/RouteParser-CSharp-Test.pdb
+/Users/janvanommeren/Projects/RouteParser-CSharp/RouteParser-CSharp-Test/bin/Debug/netcoreapp2.2/RouteParser-CSharp.dll
+/Users/janvanommeren/Projects/RouteParser-CSharp/RouteParser-CSharp-Test/bin/Debug/netcoreapp2.2/RouteParser-CSharp.pdb
+/Users/janvanommeren/Projects/RouteParser-CSharp/RouteParser-CSharp-Test/obj/Debug/netcoreapp2.2/RouteParser-CSharp-Test.csprojAssemblyReference.cache
+/Users/janvanommeren/Projects/RouteParser-CSharp/RouteParser-CSharp-Test/obj/Debug/netcoreapp2.2/RouteParser-CSharp-Test.csproj.CoreCompileInputs.cache
+/Users/janvanommeren/Projects/RouteParser-CSharp/RouteParser-CSharp-Test/obj/Debug/netcoreapp2.2/RouteParser-CSharp-Test.AssemblyInfoInputs.cache
+/Users/janvanommeren/Projects/RouteParser-CSharp/RouteParser-CSharp-Test/obj/Debug/netcoreapp2.2/RouteParser-CSharp-Test.AssemblyInfo.cs
+/Users/janvanommeren/Projects/RouteParser-CSharp/RouteParser-CSharp-Test/obj/Debug/netcoreapp2.2/RouteParser-CSharp-Test.csproj.CopyComplete
+/Users/janvanommeren/Projects/RouteParser-CSharp/RouteParser-CSharp-Test/obj/Debug/netcoreapp2.2/RouteParser-CSharp-Test.dll
+/Users/janvanommeren/Projects/RouteParser-CSharp/RouteParser-CSharp-Test/obj/Debug/netcoreapp2.2/RouteParser-CSharp-Test.pdb

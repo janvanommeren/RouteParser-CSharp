@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteParser-CSharp", "RouteParser-CSharp.csproj", "{8FCE320A-8DB3-4E95-B94F-F4CAF372F9DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteParser-CSharp-Test", "RouteParser-CSharp-Test\RouteParser-CSharp-Test.csproj", "{234E2791-AC98-4D5D-BDC1-4745C1D1E0F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FCE320A-8DB3-4E95-B94F-F4CAF372F9DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FCE320A-8DB3-4E95-B94F-F4CAF372F9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FCE320A-8DB3-4E95-B94F-F4CAF372F9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FCE320A-8DB3-4E95-B94F-F4CAF372F9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{234E2791-AC98-4D5D-BDC1-4745C1D1E0F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234E2791-AC98-4D5D-BDC1-4745C1D1E0F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234E2791-AC98-4D5D-BDC1-4745C1D1E0F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234E2791-AC98-4D5D-BDC1-4745C1D1E0F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

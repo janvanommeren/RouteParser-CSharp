@@ -1,0 +1,11 @@
+/Users/janvanommeren/Projects/RouteParser-CSharp/bin/Debug/netcoreapp2.2/RouteParser-CSharp.deps.json
+/Users/janvanommeren/Projects/RouteParser-CSharp/bin/Debug/netcoreapp2.2/RouteParser-CSharp.runtimeconfig.json
+/Users/janvanommeren/Projects/RouteParser-CSharp/bin/Debug/netcoreapp2.2/RouteParser-CSharp.runtimeconfig.dev.json
+/Users/janvanommeren/Projects/RouteParser-CSharp/bin/Debug/netcoreapp2.2/RouteParser-CSharp.dll
+/Users/janvanommeren/Projects/RouteParser-CSharp/bin/Debug/netcoreapp2.2/RouteParser-CSharp.pdb
+/Users/janvanommeren/Projects/RouteParser-CSharp/obj/Debug/netcoreapp2.2/RouteParser-CSharp.csprojAssemblyReference.cache
+/Users/janvanommeren/Projects/RouteParser-CSharp/obj/Debug/netcoreapp2.2/RouteParser-CSharp.csproj.CoreCompileInputs.cache
+/Users/janvanommeren/Projects/RouteParser-CSharp/obj/Debug/netcoreapp2.2/RouteParser-CSharp.AssemblyInfoInputs.cache
+/Users/janvanommeren/Projects/RouteParser-CSharp/obj/Debug/netcoreapp2.2/RouteParser-CSharp.AssemblyInfo.cs
+/Users/janvanommeren/Projects/RouteParser-CSharp/obj/Debug/netcoreapp2.2/RouteParser-CSharp.dll
+/Users/janvanommeren/Projects/RouteParser-CSharp/obj/Debug/netcoreapp2.2/RouteParser-CSharp.pdb

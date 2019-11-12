@@ -1,0 +1,50 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/janvanommeren/Projects/RouteParser-CSharp/RouteParser-CSharp.csproj",
+    "projectName": "RouteParser-CSharp",
+    "projectPath": "/Users/janvanommeren/Projects/RouteParser-CSharp/RouteParser-CSharp.csproj",
+    "outputPath": "/Users/janvanommeren/Projects/RouteParser-CSharp/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.CodeAnalysis.CSharp": {
+          "target": "Package",
+          "version": "[3.4.0-beta3-final, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
